@@ -1,0 +1,5 @@
+{
+  "name": "AgriCache",
+  "description": "An iOS-inspired cache-optimized smart agriculture system dashboard that simulates memory hierarchy performance for large-scale sensor networks.",
+  "requestFramePermissions": []
+}
